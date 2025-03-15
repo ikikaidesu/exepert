@@ -1,0 +1,10 @@
+C:\Users\mtvdc\source\repos\LauncherTest\bin\Debug\LauncherTest.exe.config
+C:\Users\mtvdc\source\repos\LauncherTest\bin\Debug\LauncherTest.exe
+C:\Users\mtvdc\source\repos\LauncherTest\bin\Debug\LauncherTest.pdb
+C:\Users\mtvdc\source\repos\LauncherTest\obj\Debug\LauncherTest.csproj.AssemblyReference.cache
+C:\Users\mtvdc\source\repos\LauncherTest\obj\Debug\LauncherTest.csproj.CoreCompileInputs.cache
+C:\Users\mtvdc\source\repos\LauncherTest\obj\Debug\LauncherTest.exe
+C:\Users\mtvdc\source\repos\LauncherTest\obj\Debug\LauncherTest.pdb
+C:\Users\mtvdc\source\repos\LauncherTest\bin\Debug\Gameloop.Vdf.dll
+C:\Users\mtvdc\source\repos\LauncherTest\bin\Debug\Gameloop.Vdf.xml
+C:\Users\mtvdc\source\repos\LauncherTest\obj\Debug\Launcher.274E3907.Up2Date
