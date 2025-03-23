@@ -7,7 +7,8 @@
 - Assigns a rating to each executable
 - Identifies the main game executable
 - Filters out non-game processes (service files, launchers, etc.)
-
+- in this version it works only for steam
+  
 🛠️ Installation
 - open cmd
 - git clone https://github.com/ikikaidesu/exepert.git
